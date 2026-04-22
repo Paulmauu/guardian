@@ -1,7 +1,3 @@
-Entendido, he eliminado las citas del texto final. Aquí tienes la versión limpia y profesional del `README.md` para tu repositorio de GitHub, basada fielmente en tu documentación maestra.
-
------
-
 # 🛡️ Guardian AI: Intelligent Security Engine
 
 [](https://www.rust-lang.org)
