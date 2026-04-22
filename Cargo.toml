@@ -1,0 +1,15 @@
+[package]
+name = "guardian_server"
+version = "3.0.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "4.4"
+tokio = { version = "1.35", features = ["full"] }
+ort = "2.0.0-rc.9" # <-- Más limpio, sin features extra
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+base64 = "0.22"
+log = "0.4"
+env_logger = "0.11"
+chrono = "0.4"

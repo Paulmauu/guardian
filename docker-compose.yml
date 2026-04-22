@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  guardian-core:
+    build: .
+    ports:
+      - "8080:8080"
+    volumes:
+      # Montamos tu carpeta local 'models' dentro del contenedor
+      - ./models:/app/models
+    environment:
+      - RUST_LOG=info
