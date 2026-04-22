@@ -1,5 +1,13 @@
 # 🛡️ Guardian AI: Intelligent Security Engine
 
+Agregue el código que use para crear los modelos de IA guardián y aparte la documentación de este proyecto  
+
+* DOCUMENTACIÓN 
+https://github.com/Paulmauu/guardian/blob/main/IA%20GUARDIAN.docx
+
+* CÓDIGO DE PYHTON
+https://github.com/Paulmauu/guardian/blob/main/Fabrica.py
+
 [](https://www.rust-lang.org)
 [](https://www.pytorch.org)
 [](https://onnx.ai)
